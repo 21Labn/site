@@ -22,7 +22,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Send Email"
+    text: ""
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -61,7 +61,7 @@ ko: &DEFAULT_KO
 
   contact:
     title: "연락하기"
-    text: "Send Email"
+    text: ""
     section: contact
     name: "이름*"
     name-validation: "이름을 입력하세요."
