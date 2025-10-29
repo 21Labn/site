@@ -19,5 +19,8 @@ locale: "en-US"
 
 collections:
   portfolio:
+  documents:
+    output: true
+    permalink: /:path/
 
 markdown: kramdown
