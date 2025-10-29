@@ -18,7 +18,7 @@ url    : "https://lab21.kr" # the base hostname & protocol for your site, e.g. h
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Lab21
-email      : contact@lab21.k.r #this is also the email contact forms will go to
+email      : "contact@lab21.kr" #this is also the email contact forms will go to
 description: "Lab21 Pages"
 author     : Lab21
 # logo:     #optional, defaults to site title
@@ -27,8 +27,8 @@ author     : Lab21
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
-analytics:
-  google: #Google Analytics tracking code here
+#analytics:
+#  google: #Google Analytics tracking code here
 
 collections:
   portfolio:
