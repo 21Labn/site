@@ -29,6 +29,6 @@ Dol Hareubang, Hallasan Mountain, tangerines, haenyeo divers, canola flowers…
 - Category: Game
 - Release: [[App Store]](https://apps.apple.com/us/app/%EC%A0%9C%EC%A3%BC-%EC%82%AC%EC%B2%9C%EC%84%B1/id6754316387)
 
-- [Privacy Policy](https://lab21.kr/privacy_policy.html)
-- [Terms of Service](https://lab21.kr/terms_of_service.html)
-- [Account deletion guide](https://lab21.kr/account_deletion_guide.html)
+- [Privacy Policy]({{ "/en/privacy_policy" | absolute_url }})
+- [Terms of Service]({{ "/en/terms_of_service" | absolute_url }})
+- [Account deletion guide]({{ "/en/account_deletion_guide" | absolute_url }})

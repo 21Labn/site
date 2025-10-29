@@ -60,7 +60,7 @@ ko: &DEFAULT_KO
     closebutton: "프로젝트 닫기"
 
   contact:
-    title: "연락하기"
+    title: "문의하기"
     text: ""
     section: contact
     name: "이름*"

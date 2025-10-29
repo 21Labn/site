@@ -30,6 +30,6 @@ caption:
 - Category: Game
 - Release: [[App Store]](https://apps.apple.com/kr/app/%EC%A0%9C%EC%A3%BC-%EC%82%AC%EC%B2%9C%EC%84%B1/id6754316387)
 
-- [Privacy Policy](https://lab21.kr/kr/privacy_policy)
-- [Terms of Service](https://lab21.kr/kr/terms_of_service)
-- [Account deletion guide](https://lab21.kr/kr/account_deletion_guide)
+- [Privacy Policy]({{ "/ko/privacy_policy" | absolute_url }})
+- [Terms of Service]({{ "/ko/terms_of_service" | absolute_url }})
+- [Account deletion guide]({{ "/ko/account_deletion_guide" | absolute_url }})
