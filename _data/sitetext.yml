@@ -55,7 +55,7 @@ ko: &DEFAULT_KO
 
   portfolio:
     title: "포트폴리오"
-    text: "포트폴리오."
+    text: ""
     section: portfolio
     closebutton: "프로젝트 닫기"
 
@@ -76,3 +76,5 @@ ko: &DEFAULT_KO
 
   footer:
     legal: "이용 약관"
+ko-KR:
+  <<: *DEFAULT_KO

@@ -9,7 +9,9 @@
       </div>
     </div>
     <div class="row justify-content-center">
-	{% for project in site.portfolio %}
+	{% assign lang_code = site.locale | slice: 0, 2 %}
+	{% assign filtered_projects = site.portfolio | where: "lang", lang_code %}
+	{% for project in filtered_projects %}
       <div class="col-md-4 col-sm-6 portfolio-item">
         <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
           <div class="portfolio-hover">
@@ -38,7 +40,9 @@
       </div>
     </div>
     <div class="row justify-content-center">
-	{% for project in site.portfolio %}
+	{% assign lang_code = site.locale | slice: 0, 2 %}
+	{% assign filtered_projects = site.portfolio | where: "lang", lang_code %}
+	{% for project in filtered_projects %}
       <div class="col-md-4 col-sm-6 portfolio-item">
         <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
           <div class="portfolio-hover">

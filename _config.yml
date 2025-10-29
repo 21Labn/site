@@ -13,7 +13,7 @@ author     : Lab21
 # path: assets\img\clients\creative-market.jpg
 # height: 60 #height in px, defaults to 52px
 
-locale: "en-US"
+locale: "ko-KR"
 
 #analytics:
 #  google: #Google Analytics tracking code here

@@ -28,7 +28,9 @@ en-AU:
 # -------
 ko: &DEFAULT_KO
   nav:
-    - title: "Portfolio"
+    - title: "포트폴리오"
       section: portfolio
-    - title: "Contact"
+    - title: "연락하기"
       section: contact
+ko-KR:
+  <<: *DEFAULT_KO
