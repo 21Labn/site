@@ -19,7 +19,7 @@ locale: "en-US"
 
 collections:
   portfolio:
-  documents:
+  pages:
     output: true
     permalink: /:path/
 
