@@ -1,13 +1,13 @@
 ---
 title: Jeju Tiles
-subtitle: A relaxing puzzle game set in the beautiful scenery of Jeju Island.
-image: assets/img/portfolio/01_jeju_title.jpg
+subtitle: A relaxing puzzle game set in the beautiful scenery of Jeju Island
+image: /assets/img/portfolio/01_jeju_title.jpg
 lang: en
 
 caption:
   title: Jeju Tiles
-  subtitle: A relaxing puzzle game set in the beautiful scenery of Jeju Island.
-  thumbnail: assets/img/portfolio/01_jeju_title.jpg
+  subtitle: A relaxing puzzle game set in the beautiful scenery of Jeju Island
+  thumbnail: /assets/img/portfolio/01_jeju_title.jpg
 ---
 Dol Hareubang, Hallasan Mountain, tangerines, haenyeo divers, canola flowers…
 100 iconic symbols of Jeju Island have been reimagined as match puzzle tiles.

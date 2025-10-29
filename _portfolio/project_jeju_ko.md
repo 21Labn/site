@@ -1,13 +1,13 @@
 ---
 title: 제주 사천성
-subtitle: 제주의 풍경 속에서 여유롭게 즐기는 감성 퍼즐.
-image: assets/img/portfolio/01_jeju_title.jpg
+subtitle: 제주의 풍경 속에서 여유롭게 즐기는 감성 퍼즐
+image: /assets/img/portfolio/01_jeju_title.jpg
 lang: ko
 
 caption:
   title: 제주 사천성
-  subtitle: 제주의 풍경 속에서 여유롭게 즐기는 감성 퍼즐.
-  thumbnail: assets/img/portfolio/01_jeju_title.jpg
+  subtitle: 제주의 풍경 속에서 여유롭게 즐기는 감성 퍼즐
+  thumbnail: /assets/img/portfolio/01_jeju_title.jpg
 ---
 돌하르방, 한라산, 감귤, 해녀, 유채꽃…
 제주를 상징하는 100가지 아이콘이 사천성 퍼즐로 재탄생했습니다.

@@ -1,15 +1,16 @@
 <!-- Portfolio Grid -->
-{% if site.locale and site.locale != "" and site.locale != nil %}
-<section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].portfolio.section | default: "portfolio" }}">
+{% assign current_locale = page.locale | default: site.locale %}
+{% if current_locale and current_locale != "" and current_locale != nil %}
+<section class="bg-light page-section" id="{{ site.data.sitetext[current_locale].portfolio.section | default: "portfolio" }}">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].portfolio.title | markdownify | default: "Portfolio" }}</h2>
-        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].portfolio.text | markdownify }}</h3>
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[current_locale].portfolio.title | markdownify | default: "Portfolio" }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext[current_locale].portfolio.text | markdownify }}</h3>
       </div>
     </div>
     <div class="row justify-content-center">
-	{% assign lang_code = site.locale | slice: 0, 2 %}
+	{% assign lang_code = current_locale | slice: 0, 2 %}
 	{% assign filtered_projects = site.portfolio | where: "lang", lang_code %}
 	{% for project in filtered_projects %}
       <div class="col-md-4 col-sm-6 portfolio-item">

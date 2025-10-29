@@ -1,8 +1,9 @@
 <!-- Portfolio Modals -->
-{% assign lang_code = site.locale | slice: 0, 2 %}
+{% assign current_locale = page.locale | default: site.locale %}
+{% assign lang_code = current_locale | slice: 0, 2 %}
 {% assign filtered_projects = site.portfolio | where: "lang", lang_code %}
 {% for project in filtered_projects %}
-{% if site.locale and site.locale != "" and site.locale != nil %}
+{% if current_locale and current_locale != "" and current_locale != nil %}
 <div
   class="portfolio-modal modal fade"
   id="p{{ forloop.index }}"
@@ -36,7 +37,7 @@
                 type="button"
               >
                 <i class="fas fa-times"></i>
-                {{ site.data.sitetext[site.locale].portfolio.closebutton |
+                {{ site.data.sitetext[current_locale].portfolio.closebutton |
                 default: "Close Project" }}
               </button>
             </div>
