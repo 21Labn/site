@@ -11,12 +11,12 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Lab21
-    text: It's Nice To Meet You
+    title: 
+    text: Lab21
 
   portfolio:
     title: "Portfolio"
-    text: "Portfolio."
+    text: ""
     section: portfolio
     closebutton: "Close Project"
 
@@ -50,8 +50,8 @@ en-AU:
 # -------
 ko: &DEFAULT_KO
   header:
-    title: Lab21
-    text: 만나서 반갑습니다.
+    title: 
+    text: Lab21
 
   portfolio:
     title: "포트폴리오"
