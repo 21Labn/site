@@ -30,6 +30,6 @@ caption:
 - Category: Game
 - Release: [[App Store]](https://apps.apple.com/kr/app/%EC%A0%9C%EC%A3%BC-%EC%82%AC%EC%B2%9C%EC%84%B1/id6754316387)
 
-- [Privacy Policy]({{ "/ko/privacy_policy" | absolute_url }})
-- [Terms of Service]({{ "/ko/terms_of_service" | absolute_url }})
-- [Account deletion guide]({{ "/ko/account_deletion_guide" | absolute_url }})
+- [개인정보 처리방침]({{ "/ko/privacy_policy" | absolute_url }})
+- [서비스 이용약관]({{ "/ko/terms_of_service" | absolute_url }})
+- [계정 삭제 안내]({{ "/ko/account_deletion_guide" | absolute_url }})

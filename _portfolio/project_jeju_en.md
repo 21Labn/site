@@ -31,4 +31,4 @@ Dol Hareubang, Hallasan Mountain, tangerines, haenyeo divers, canola flowers…
 
 - [Privacy Policy]({{ "/en/privacy_policy" | absolute_url }})
 - [Terms of Service]({{ "/en/terms_of_service" | absolute_url }})
-- [Account deletion guide]({{ "/en/account_deletion_guide" | absolute_url }})
+- [Account Deletion Guide]({{ "/en/account_deletion_guide" | absolute_url }})
