@@ -1,8 +1,11 @@
 ---
-title: "계정 삭제 안내문"
-date: 2025-10-29 16:04:05 +0900
-categories: documents
+layout: page
+title: Account Deletion Guide
 ---
+<div class="col-lg-12 text-center">
+	<h2 class="section-heading text-uppercase">Account Deletion Guide</h2>
+</div>
+
 Account deletion is processed immediately and irreversible. The following data will be permanently deleted. Please consider carefully before proceeding.
 - Account information
 - In-app purchase history

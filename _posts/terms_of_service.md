@@ -1,8 +1,11 @@
 ---
-title: "이용약관"
-date: 2025-10-29 16:04:05 +0900
-categories: documents
+layout: page
+title: Terms of Policy
 ---
+<div class="col-lg-12 text-center">
+	<h2 class="section-heading text-uppercase">Terms of Policy</h2>
+</div>
+
 1. Service Usage
    This game service is a tile matching puzzle game provided by Lab21. Users may use the service by agreeing to these terms.
 

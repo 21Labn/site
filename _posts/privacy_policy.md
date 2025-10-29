@@ -1,8 +1,11 @@
 ---
-title: "개인정보 처리방침"
-date: 2025-10-29 16:04:05 +0900
-categories: documents
+layout: page
+title: Privacy Policy
 ---
+<div class="col-lg-12 text-center">
+	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
+</div>
+
 Lab21 ("Company") values users' personal information and complies with relevant laws including the Personal Information Protection Act.
 
 1. Personal Information Collected
@@ -33,7 +36,7 @@ Lab21 ("Company") values users' personal information and complies with relevant 
 
 7. Privacy Officer
    If you have any questions regarding personal information, please contact the Privacy Officer below.
-- Email: ominseok86@gmail.com
+- Email: contact@lab21.kr
 
 8. Notification Obligation
    This Privacy Policy may be changed in accordance with laws or policies, and changes will be announced through in-game notifications.
