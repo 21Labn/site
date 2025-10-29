@@ -10,9 +10,9 @@ caption:
   thumbnail: assets/img/portfolio/01_jeju_title.jpg
 ---
 Dol Hareubang, Hallasan Mountain, tangerines, haenyeo divers, canola flowers…
-100 iconic symbols of Jeju Island have been reimagined as Shisensho puzzle tiles.
+100 iconic symbols of Jeju Island have been reimagined as match puzzle tiles.
 
-- Simple yet engaging Shisensho puzzle gameplay
+- Simple yet engaging match puzzle gameplay
   Easy to learn, increasingly immersive to play.
 - Warm hand-drawn art style
   Jeju's landscapes expressed through soft lines and colors.
