@@ -38,3 +38,7 @@ caption:
 - [개인정보 처리방침]({{ "/ko/privacy_policy" | absolute_url }})
 - [서비스 이용약관]({{ "/ko/terms_of_service" | absolute_url }})
 - [계정 삭제 안내]({{ "/ko/account_deletion_guide" | absolute_url }})
+
+<div style="text-align: left; margin-top: 20px">
+  <img src="/assets/img/portfolio/01_jeju_qr_ko.png" alt="AppStore QR Code" style="width: 150px; height: 150px">
+</div>

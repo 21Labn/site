@@ -38,3 +38,7 @@ Dol Hareubang, Hallasan Mountain, tangerines, haenyeo divers, canola flowers…
 - [Privacy Policy]({{ "/en/privacy_policy" | absolute_url }})
 - [Terms of Service]({{ "/en/terms_of_service" | absolute_url }})
 - [Account Deletion Guide]({{ "/en/account_deletion_guide" | absolute_url }})
+
+<div style="text-align: left; margin-top: 20px">
+  <img src="/assets/img/portfolio/01_jeju_qr_en.png" alt="AppStore QR Code" style="width: 150px; height: 150px">
+</div>
