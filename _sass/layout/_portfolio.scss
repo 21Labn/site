@@ -98,6 +98,20 @@
     img {
       margin-bottom: 30px;
     }
+    // Full-width images and videos in modal content
+    .modal-body {
+      img {
+        width: 100%;
+        height: auto;
+      }
+      // Responsive iframe wrapper for videos
+      iframe {
+        width: 100%;
+        aspect-ratio: 16 / 9;
+        border: none;
+        margin-bottom: 30px;
+      }
+    }
     button {
       cursor: pointer;
     }
