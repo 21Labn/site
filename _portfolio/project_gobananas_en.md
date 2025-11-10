@@ -23,7 +23,9 @@ Go bananas and make something truly timeless! 🍌💎
 {:.list-inline}
 - Release Date: November 2025
 - Category: Game
-- Platform: [[WebGL]](https://lab21.itch.io/go-bananas)
+- Platform: [[itch.io]](https://lab21.itch.io/go-bananas)
+
+<iframe frameborder="0" src="https://itch.io/embed/4025747" width="552" height="167"><a href="https://lab21.itch.io/go-bananas">Go Bananas! by Lab21</a></iframe>
 
 #### Gameplay Video
 <iframe src="https://www.youtube.com/embed/hY-TPjM0zpA?si=yBhJTXqCCmo_1yCC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
